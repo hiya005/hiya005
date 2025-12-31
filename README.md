@@ -60,12 +60,6 @@
   <table>
     <tr>
       <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-        <br><b>Java</b>
-        <br>
-        <img src="https://img.shields.io/badge/Learning-35%25-ED8B00?style=flat-square&labelColor=282828" />
-      </td>
-      <td align="center" width="140">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
         <br><b>Python</b>
         <br>
