@@ -42,9 +42,6 @@
 
 <!-- Animated Tech Icons -->
 <div align="center">
-  <a href="https://docs.oracle.com/en/java/">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  </a>
   <a href="https://www.python.org/doc/">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   </a>
