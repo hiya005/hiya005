@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi, I’m Hiya!
 
-<!--
-**hiya005/hiya005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Computer Science Engineer  
+🌱 Currently learning **Computer Science fundamentals & app development**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+- Passionate about **technology, productivity & mindful screen usage**
+- Interested in **UI/UX, mobile apps & human-centric tech**
+- Love learning step by step and building practical understanding
+
+---
+
+### 🛠️ Skills (Growing 🌱)
+-Java & Python
+-HTML, CSS and a bit of JS
+-Git, GitHub, VS Code & Linux
+- Programming basics  
+- App & interface design ideas  
+- Problem-solving  
+- Research & user understanding  
+
+---
+
+### 🎯 Goals
+
+- Build strong CS fundamentals  
+- Create useful, impactful applications  
+- Study abroad & grow as a developer  
+
+---
+
+### 📫 Let’s Connect
+
+- Open to learning, collaboration & feedback  
+- Always curious, always improving
+- 
