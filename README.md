@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-
+  
 </a>
 
 <!-- Animated Line -->
@@ -35,13 +35,7 @@
 
 <!-- Animated Section Header -->
 <div align="center">
-  <a href="#">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg"
-       alt="Tech Stack"
-       width="65"
-       height="65"/>
-</a>
-
+<h1>🛠️ Tech Stack</h1>
 </div>
 
 <br>
@@ -106,12 +100,7 @@
 
 <!-- Tools Section with Animation -->
 <div align="center">
-  <a href="#">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
-       alt="Tools"
-       width="65"
-       height="65"/>
-</a>
+ <h1>Tools</h1>
 </div>
 
 <br>
@@ -146,7 +135,7 @@
 
 <!-- Animated Goals Section Header -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Goals" alt="Typing SVG" /></a>
+  <h1>Goals</h1>
 </div>
 
 <br>
@@ -185,6 +174,8 @@
 
 ---
 
+
+
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -201,14 +192,22 @@
 ---
 
 <!-- Animated Connect Header -->
+<div align="center">
+ <h1>Connect</h1>
+</div>
 
 <br>
+
 <div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiya005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiya-adlakha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiya251207@gmail.com)
+
 </div>
+
 ---
+
 <div align="center">
 
 ### 💭 Quote of the Day
@@ -217,16 +216,16 @@
 
 </div>
 
----
 
+<div align="center">
 
 ### 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hiya&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br>
-
 </div>
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
